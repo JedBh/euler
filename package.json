@@ -1,0 +1,20 @@
+{
+  "name": "euler",
+  "version": "1.0.0",
+  "description": "Freecodecamp Project Euler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JedBh/euler.git"
+  },
+  "keywords": [],
+  "author": "Jed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JedBh/euler/issues"
+  },
+  "homepage": "https://github.com/JedBh/euler#readme"
+}
